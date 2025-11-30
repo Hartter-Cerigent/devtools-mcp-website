@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/devtools-mcp-website/',
   title: "余科震的个人主页",
   description: "计算机科学与技术专业学生 | 全栈开发 | 学习记录",
   themeConfig: {
